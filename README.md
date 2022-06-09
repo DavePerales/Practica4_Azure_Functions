@@ -36,9 +36,12 @@ Crear una aplicación de funciones en Microsoft Azure y ejecutarla a través de 
 11.  Damos click en **Crear** y en el campo **Entorno de desarrollo** seleccionamos _Desarrollar en el portal_. 
 12.  En el campo **Selecionar una plantilla** selecionamos _HTTP trigger_ y damos click en **Crear**.
 13.  Una vez creado el trigger nos dirigimos a **Código y prueba**.
+
 ![Código y prueba](imgs/02.png)
+
 14. Damos click en **Probar y ejecutar** y modificamos el cuerpo y damos click en **Ejecutar**.
 ![Probar y ejecutar](imgs/03.png)
+
 15. Observaremos la ejecución del trigger al realizar un método POST.
 ![Ejecución](imgs/04.png)
 
