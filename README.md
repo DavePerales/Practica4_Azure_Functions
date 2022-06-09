@@ -1,7 +1,7 @@
-# Práctica 4
+# Práctica 4 | **Azure Functions**
 
 ## Tabla de contenidos
-- [Práctica 4](#práctica-4)
+- [Práctica 4 | **Azure Functions**](#práctica-4--azure-functions)
   - [Tabla de contenidos](#tabla-de-contenidos)
   - [Objetivo](#objetivo)
   - [Procedimiento](#procedimiento)
